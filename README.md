@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Ahora mismo estoy estudiando Ingeniería Informática en la Universidad Obera de Catalunya (UOC).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paucape)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PauCape/PauCape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
