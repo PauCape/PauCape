@@ -2,7 +2,7 @@
 
 I am a student of computer engineering in the Universitat **Oberta de Catalunya (UOC)**. Right now I am learning about a lot of languages, features and all the stuff related about programming. I am very excited to share my work with the community.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark)
 
 
 <!--
