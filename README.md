@@ -7,6 +7,8 @@ I am a student of computer engineering in the Universitat **Oberta de Catalunya 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&langs_count=8&theme=vue-dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paucape&repo=programming-challenges&theme=vue)](https://github.com/PauCape/programming-challenges)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paucape&repo=unity-projects&theme=vue)](https://github.com/PauCape/unity-projects)
+
 
 <!--
 **PauCape/PauCape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
