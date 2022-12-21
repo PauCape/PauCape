@@ -2,8 +2,7 @@
 
 I am a student of computer engineering in the Universitat **Oberta de Catalunya (UOC)**. Right now I am learning about a lot of languages, features and all the stuff related about programming. I am very excited to share my work with the community.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paucape)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=radical
 
 
 <!--
