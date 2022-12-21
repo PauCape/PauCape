@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student of informatic engineering in the Universitat **Oberta de Catalunya (UOC)**. Right now I am learning about a lot of languages, features and all the stuff related about programming. I am very excited to share my work with the community.
+I am a student of computer engineering in the Universitat **Oberta de Catalunya (UOC)**. Right now I am learning about a lot of languages, features and all the stuff related about programming. I am very excited to share my work with the community.
 <!--
 **PauCape/PauCape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
