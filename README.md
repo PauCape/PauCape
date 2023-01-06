@@ -5,7 +5,7 @@ I am a student of computer engineering in the Universitat **Oberta de Catalunya 
 ### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&langs_count=8&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&langs_count=8&theme=vue-dark&layout=compact)
 
 ### Repositories
 
