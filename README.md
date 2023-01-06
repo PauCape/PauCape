@@ -4,10 +4,10 @@ I am a student of computer engineering in the Universitat **Oberta de Catalunya 
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&langs_count=8&theme=vue-dark)
+<img align="left" alt="PauCape's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&langs_count=8&theme=vue-dark">
+<img align="right" alt="PauCape's streaks" src="https://streak-stats.demolab.com?user=paucape&theme=vue-dark&date_format=j%20M%5B%20Y%5D">
+<img align="right" alt="PauCape's stats" src="https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paucape&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-![Stats](https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark)
 
 ### Repositories
 
