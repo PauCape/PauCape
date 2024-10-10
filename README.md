@@ -1,10 +1,4 @@
-<h1>Hello, I'm Pau!</h1>
-
-<img style="float: right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&theme=vue-dark&layout=compact&langs_count=8">
-
-<img style="float: right"  width="60%" src="https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark">
-
-<img style="float: right" width="60%" src="https://streak-stats.demolab.com/?user=paucape&theme=vue-dark">
+<h1>Hello, I'm Pau!</h2>
 
 <p>I’m a passionate programmer on a journey to learn and improve my skills through various projects on GitHub.</p>
 
@@ -14,8 +8,15 @@
 
 <p>Happy coding!</p>
 
-</br>
-</br>
+<p align="center">
+  <a href="https://github.com/PauCape"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&theme=vue-dark&layout=compact&langs_count=8"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/PauCape"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=paucape&show_icons=true&theme=vue-dark"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/PauCape"><img width="70%" src="https://streak-stats.demolab.com/?user=paucape&theme=vue-dark"></a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
