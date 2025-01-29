@@ -9,7 +9,7 @@
 <p>Happy coding!</p>
 
 <p align="center">
-  <a href="https://github.com/PauCape"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&theme=vue-dark&layout=compact&langs_count=8"></a>
+  <a href="https://github.com/PauCape"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucape&theme=vue-dark&layout=compact"></a>
 </p>
 
 <p align="center">
